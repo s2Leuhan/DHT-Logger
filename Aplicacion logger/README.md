@@ -1,14 +1,13 @@
 # csv2pkl
-Utility to convert csv to python3 pickle file
+Utility to convert csv to python3 pickle file and graph it
 
 
-# Installation
+# Recommendation
 
-1. Download this repository from [here](https://github.com/shadiakiki1986/csv2pkl/archive/master.zip)
-2. unzip and cd into directory
-3. `pip3 install -r requirements.txt`
+Read Uso.txt
 
 
 # Usage
 
 `python csv2pkl.py example.csv example.pkl`
+
