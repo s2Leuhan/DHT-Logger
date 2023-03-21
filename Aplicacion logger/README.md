@@ -1,4 +1,4 @@
-# csv2pkl
+# txt2graph
 Utility to convert csv to python3 pickle file and graph it
 
 
@@ -9,5 +9,5 @@ Read Uso.txt
 
 # Usage
 
-`python csv2pkl.py example.csv example.pkl`
+`execute ejecutar.bat`
 
